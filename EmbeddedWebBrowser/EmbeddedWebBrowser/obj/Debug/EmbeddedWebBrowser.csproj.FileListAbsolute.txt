@@ -1,0 +1,8 @@
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\bin\Debug\EmbeddedWebBrowser.exe.config
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\bin\Debug\EmbeddedWebBrowser.exe
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\bin\Debug\EmbeddedWebBrowser.pdb
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Debug\EmbeddedWebBrowser.mainForm.resources
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Debug\EmbeddedWebBrowser.Properties.Resources.resources
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Debug\EmbeddedWebBrowser.csproj.GenerateResource.Cache
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Debug\EmbeddedWebBrowser.exe
+D:\VoiceScripts\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Debug\EmbeddedWebBrowser.pdb
